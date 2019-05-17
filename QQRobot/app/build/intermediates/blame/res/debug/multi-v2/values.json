@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\MyProject\\AndroidProject\\QQRobot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\MyProject\\AndroidProject\\QQRobot\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "42",
+                        "endOffsets": "54"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "214",
+                        "endColumns": "42",
+                        "endOffsets": "252"
+                    }
+                },
+                {
+                    "source": "D:\\MyProject\\AndroidProject\\QQRobot\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "5,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "131,55",
+                        "endLines": "7,4",
+                        "endColumns": "19,19",
+                        "endOffsets": "209,126"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,138",
+                        "endLines": "4,7",
+                        "endColumns": "19,19",
+                        "endOffsets": "133,209"
+                    }
+                },
+                {
+                    "source": "D:\\MyProject\\AndroidProject\\QQRobot\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "175"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "257",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "378"
+                    }
+                }
+            ]
+        }
+    ]
+}

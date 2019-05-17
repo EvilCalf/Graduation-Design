@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+                  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="设置">
+        <SwitchPreference
+            android:key="master_switch"
+            android:title="总开关" />
+
+    </PreferenceCategory>
+    <PreferenceCategory android:title="名单">
+        <CheckBoxPreference
+            android:key="no_reply_troop"
+            android:title="不回复群" />
+        <EditTextPreference
+            android:key="white_list"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:summary="设置自动回复的名单"
+            android:title="白名单" />
+    </PreferenceCategory>
+
+        <ListPreference
+            android:defaultValue="图灵"
+            android:entries="@array/robot"
+            android:entryValues="@array/robot"
+            android:key="robot"
+            android:title="选择机器人"
+            android:visibility="gone"/>
+        <EditTextPreference
+            android:defaultValue="d2f4965fca134b8c94f0b403ddbe046a"
+            android:key="robot_api_key"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="APIKEY"
+            android:visibility="gone"/>
+        <!--<EditTextPreference-->
+        <!--android:key="robot_secret"-->
+        <!--android:selectAllOnFocus="true"-->
+        <!--android:defaultValue="193896ee357550ed"-->
+        <!--android:singleLine="true"-->
+        <!--android:title="Secret" />-->
+    <PreferenceCategory android:title="关键词">
+
+        <EditTextPreference
+            android:key="key_reply"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:summary="[格式]关键词:回复内容 关键词:回复内容 ..."
+            android:title="关键词回复" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="关于">
+        <Preference
+            android:key="about_the_author"
+            android:summary="徐佳鼎"
+            android:title="作者" />
+        <Preference
+            android:key="version"
+            android:title="版本" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

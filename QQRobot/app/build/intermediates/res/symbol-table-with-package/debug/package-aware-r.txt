@@ -1,0 +1,7 @@
+cn.EvilCalf.ECBot
+array donate_list
+array robot
+mipmap ic_launcher
+string app_name
+style AppTheme
+xml settings
