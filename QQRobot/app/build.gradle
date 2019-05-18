@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId 'cn.EvilCalf.ECBot'
+        applicationId "cn.dhbin.qqrobot"
         minSdkVersion 14
         targetSdkVersion 25
         versionCode 1
@@ -16,8 +16,6 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
-    }
-    productFlavors {
     }
 }
 

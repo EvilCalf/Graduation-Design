@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+                  xmlns:tools="http://schemas.android.com/tools"
                   xmlns:android="http://schemas.android.com/apk/res/android">
     <PreferenceCategory android:title="设置">
         <SwitchPreference
@@ -19,27 +20,9 @@
             android:title="白名单" />
     </PreferenceCategory>
 
-        <ListPreference
-            android:defaultValue="图灵"
-            android:entries="@array/robot"
-            android:entryValues="@array/robot"
-            android:key="robot"
-            android:title="选择机器人"
-            android:visibility="gone"/>
-        <EditTextPreference
-            android:defaultValue="d2f4965fca134b8c94f0b403ddbe046a"
-            android:key="robot_api_key"
-            android:selectAllOnFocus="true"
-            android:singleLine="true"
-            android:title="APIKEY"
-            android:visibility="gone"/>
-        <!--<EditTextPreference-->
-        <!--android:key="robot_secret"-->
-        <!--android:selectAllOnFocus="true"-->
-        <!--android:defaultValue="193896ee357550ed"-->
-        <!--android:singleLine="true"-->
-        <!--android:title="Secret" />-->
-    <PreferenceCategory android:title="关键词">
+
+    <PreferenceCategory android:title="关键词"
+                        android:key="thirdE">
 
         <EditTextPreference
             android:key="key_reply"
@@ -53,6 +36,8 @@
             android:key="about_the_author"
             android:summary="徐佳鼎"
             android:title="作者" />
+
+
         <Preference
             android:key="version"
             android:title="版本" />

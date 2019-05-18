@@ -1,34 +1,18 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:1-42:12
-MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\94f220153fd03e8a911a968c8c960557\AndroidManifest.xml:2:1-11:12
-MERGED from [com.tencent.bugly:crashreport_upgrade:1.1.7] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\crashreport_upgrade-1.1.7.aar\e89989d6dbe20534808f89686e272335\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\e08a341f9dcb69575e75bd9d4edc5ab6\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\34416e72eb77b0c8b046e985e5447763\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\bfc6311cf41346e7870f528db014e56a\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\b4f920e8d52d54d22611472b1d9042b9\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\95892c8ee5aaa6fc7bedcf73a6470a32\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\ea91fdc82c5f46e29e6d7f779cf78e96\AndroidManifest.xml:17:1-27:12
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:3:5-32
+		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
 		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:1-42:12
-		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
-	android:versionCode
-		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE
 ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:5:5-75
 	android:name
@@ -55,30 +39,24 @@ ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:
 		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:11:22-78
 application
 ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:13:5-40:19
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\e08a341f9dcb69575e75bd9d4edc5ab6\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\e08a341f9dcb69575e75bd9d4edc5ab6\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\34416e72eb77b0c8b046e985e5447763\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\34416e72eb77b0c8b046e985e5447763\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\bfc6311cf41346e7870f528db014e56a\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\bfc6311cf41346e7870f528db014e56a\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\b4f920e8d52d54d22611472b1d9042b9\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\b4f920e8d52d54d22611472b1d9042b9\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\95892c8ee5aaa6fc7bedcf73a6470a32\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\95892c8ee5aaa6fc7bedcf73a6470a32\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\ea91fdc82c5f46e29e6d7f779cf78e96\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\ea91fdc82c5f46e29e6d7f779cf78e96\AndroidManifest.xml:25:5-20
-	android:supportsRtl
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:18:9-35
+MERGED from [com.android.support:support-v4:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:17:9-41
-	android:icon
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:16:9-43
+	android:supportsRtl
+		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:18:9-35
 	android:allowBackup
 		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:16:9-43
 	android:theme
 		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:19:9-40
 	android:name
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:14:9-45
+		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:14:9-28
 meta-data#xposedmodule
 ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:20:9-22:36
 	android:value
@@ -103,13 +81,13 @@ ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:
 		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:32:13-61
 	android:name
 		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:31:13-66
-activity#cn.EvilCalf.ECBot.MainActivity
+activity#cn.dhbin.qqrobot.MainActivity
 ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:34:9-39:20
 	android:exported
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:34:65-88
+		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:34:48-71
 	android:name
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:34:19-64
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:34:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
 ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:35:13-38:29
 action#android.intent.action.MAIN
 ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:36:17-69
@@ -121,33 +99,19 @@ ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:
 		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml:37:27-73
 uses-sdk
 INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
-MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\94f220153fd03e8a911a968c8c960557\AndroidManifest.xml:7:5-9:41
-MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\94f220153fd03e8a911a968c8c960557\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.bugly:crashreport_upgrade:1.1.7] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\crashreport_upgrade-1.1.7.aar\e89989d6dbe20534808f89686e272335\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.bugly:crashreport_upgrade:1.1.7] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\crashreport_upgrade-1.1.7.aar\e89989d6dbe20534808f89686e272335\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\e08a341f9dcb69575e75bd9d4edc5ab6\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\e08a341f9dcb69575e75bd9d4edc5ab6\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\34416e72eb77b0c8b046e985e5447763\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\34416e72eb77b0c8b046e985e5447763\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\bfc6311cf41346e7870f528db014e56a\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\bfc6311cf41346e7870f528db014e56a\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\b4f920e8d52d54d22611472b1d9042b9\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\b4f920e8d52d54d22611472b1d9042b9\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\95892c8ee5aaa6fc7bedcf73a6470a32\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\95892c8ee5aaa6fc7bedcf73a6470a32\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\ea91fdc82c5f46e29e6d7f779cf78e96\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\ea91fdc82c5f46e29e6d7f779cf78e96\AndroidManifest.xml:21:5-23:58
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
-INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
+MERGED from [com.zhy:okhttputils:2.6.2] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.1.7] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport_upgrade\1.1.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.1.1] C:\Users\Ðì¼Ñ¶¦\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\e08a341f9dcb69575e75bd9d4edc5ab6\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.1.1] D:\MyProject\AndroidProject\QQRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
 		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
-		ADDED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
 		INJECTED from D:\MyProject\AndroidProject\QQRobot\app\src\main\AndroidManifest.xml
